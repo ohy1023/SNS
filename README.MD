@@ -14,7 +14,6 @@
 
 ### ✔ 기술 스택
 
-- frontend : HTML/CSS, Java Script
 - backend : java, spring boot, JPA, spring security, KAFKA
 - Database : MYSQL, Redis, MongoDB
 - CI/CD : gitlab
